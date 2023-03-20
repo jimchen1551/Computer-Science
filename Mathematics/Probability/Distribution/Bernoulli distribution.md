@@ -24,3 +24,4 @@ $$F_X(x)=
 1 & \quad 1\leq x
 \end{cases}
 $$
+[[Conjugate prior]]: [[Beta distribution]]

@@ -8,7 +8,7 @@ Tags:
 # Karush-Kuhn-Tucker
 $$\min_{x}f(x);\ g_i(x)\leq0,\ i\in[1, m];\ h_j(x)=0,\ j\in[1, n]$$
 $$L(x, \lambda,\mu)=f(x)+\lambda^Tg(x)+\mu^Th(x)$$
-taking the [[partial derivatives]] of L, then
+taking the [[Partial derivatives]] of L, then
 $$\Rightarrow\frac{\partial L}{\partial x}=\nabla_xf(x)+\lambda^T\nabla_xg_(x)+\mu^T\nabla_xh(x)=0$$
 and
 $$\Rightarrow g(x)\leq0$$

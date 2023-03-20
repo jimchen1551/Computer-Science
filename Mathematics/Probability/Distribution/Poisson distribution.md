@@ -11,3 +11,4 @@ $$X\sim Poisson(\lambda T)$$
 ## Discrete form
 [[Probability mass function|PMF]]: 
 $$p_X(x)=e^{-\lambda T}\cdot\frac{(\lambda T)^x}{x!}$$
+[[Conjugate prior]]: [[Gamma distribution]]

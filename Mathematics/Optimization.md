@@ -23,8 +23,8 @@ $$\lim_{k\rightarrow+\infty}\nabla f(x_k)=0$$
 
 | Second-order optimization            | abbrev |
 | ------------------------------------ | ------ |
-| [[Newton method]]                    | NM     |
-| [[Quasi-Newton method]]              | QNM    |
+| [[Newton's method]]                    | NM     |
+| [[Quasi-Newton's method]]              | QNM    |
 | [[Davidon-Fletcher-Powell]]          | DFP    |
 | [[Broyden-Fletcher-Goldfarb-Shanno]] | BFGS   |
 

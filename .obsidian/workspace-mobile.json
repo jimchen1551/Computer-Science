@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Linear algebra/Singular value decomposition.md",
+                "file": "Mathematics/Calculus/Euler-Lagrange equation.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematics/Linear algebra/Singular value decomposition.md",
+            "file": "Mathematics/Calculus/Euler-Lagrange equation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematics/Linear algebra/Singular value decomposition.md",
+            "file": "Mathematics/Calculus/Euler-Lagrange equation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematics/Linear algebra/Singular value decomposition.md"
+            "file": "Mathematics/Calculus/Euler-Lagrange equation.md"
           }
         }
       },
@@ -129,17 +129,45 @@
     ],
     "currentTab": 0
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes": false
+    }
+  },
   "active": "cad6881ef36b5f5e",
   "lastOpenFiles": [
-    "Mathematics/Linear algebra.md",
-    "Mathematics.md",
-    "Mathematics/Optimization.md",
-    "Mathematics/Calculus/Partial derivatives/Lagrange multiplier.md",
-    "Mathematics/Calculus/Derivatives/Newton method.md",
-    "Mathematics/Calculus/Partial derivatives.md",
-    "Mathematics/Calculus/Partial derivatives/Directional derivative.md",
-    "Mathematics/Optimization/First-order optimization/Root-mean-squared propagation.md",
-    "Mathematics/Optimization/First-order optimization/Gradient descent with momentum.md",
-    "Mathematics/Optimization/First-order optimization/Adaptive moment.md"
+    "Mathematics/Probability/Random variables/Moment.md",
+    "Mathematics/Probability/Random events/Bonferroni's inequality.md",
+    "Mathematics/Probability/Random variables/Law of total variance.md",
+    "Mathematics/Probability/Random vectors/Conditional cumulative distribution function.md",
+    "Mathematics/Optimization/Divide and conquer/Coordinate descent.md",
+    "Mathematics/Probability/Random variables/Expectation.md",
+    "Mathematics/Probability/Random variables/Jensen's inequality.md",
+    "Mathematics/Optimization/Divide and conquer/Sequential minimal optimization.md",
+    "Computer Science/Machine learning/Parameter estimation/Minimum description length.md",
+    "Mathematics/Probability/Random vectors/Independent and identically distributed.md",
+    "Mathematics/Optimization/Constrained optimization/Lagrange duality.md",
+    "Mathematics/Optimization/Divide and conquer/Adaptive boosting.md",
+    "Mathematics/Probability/Random variables/Law of total expectation.md",
+    "Mathematics/Calculus/Integrals/Gaussian integral.md",
+    "Mathematics/Probability/Random variables/Chernoff's inequality.md",
+    "Mathematics/Probability/Random variables/Markov's inequality.md",
+    "Mathematics/Probability/Random variables/Variance.md",
+    "Mathematics/Probability/Random vectors/Conditional probability density function.md",
+    "Mathematics/Probability/Random vectors/Marginal probability mass function.md",
+    "Mathematics/Probability/Random vectors/Covariance.md",
+    "Mathematics/Probability/Random vectors/Marginal cumulative distribution function.md",
+    "Mathematics/Probability/Random vectors/Marginal probability density function.md",
+    "Mathematics/Probability/Distribution/Universality of the Uniform.md",
+    "Mathematics/Probability/Distribution/Rayleigh distribution.md",
+    "Mathematics/Probability/Distribution/Gaussian mixture model.md",
+    "Computer Science/Machine learning/Parameter estimation/Maximum likelihood.md"
   ]
 }

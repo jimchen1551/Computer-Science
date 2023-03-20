@@ -6,4 +6,7 @@ Tags:
 - 
 ---
 # Linear algebra
+[[Cholesky decomposition]]
+[[QR decomposition]]
+[[Eigen decomposition]]
 [[Singular value decomposition]]

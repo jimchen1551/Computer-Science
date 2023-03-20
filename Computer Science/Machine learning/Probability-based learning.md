@@ -17,7 +17,7 @@ Tags:
 | Algorithms            | Comment |
 | --------------------- | ------- |
 | [[Naive Bayes model]] |         |
-| [[Bayesian network]]  |         |
+| [[Bayesian networks]]  |         |
 
 ## For continuous features
 ### [[Probability density function]]

@@ -11,7 +11,7 @@ Tags:
 $$\Delta x=x'-x_0$$
 $$\Delta f(x)=f(x')-f(x_0)$$
 ### Differential change in variables
-- taking [[limits]] on change in variables
+- taking [[Limits]] on change in variables
 $$dx=\lim_{\Delta x\rightarrow0}\Delta x=(x+dx)-(x)$$
 $$df(x)=\lim_{\Delta x\rightarrow0}\Delta f(x)=f(x+dx)-f(x)$$
 ### Derivative
@@ -29,4 +29,4 @@ $$f^{(n)}(x)=\frac{d^nf(x)}{dx^n}=\frac{df^{(n-1)}(x)}{dx}$$
 ## Rules and theorems
 - [[Extreme value theorem]]
 - [[Mean value theorem]]
-- [[Newton method]]
+- [[Newton's method]]

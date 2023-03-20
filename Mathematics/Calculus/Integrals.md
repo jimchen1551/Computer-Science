@@ -11,7 +11,7 @@ Tags:
 $$\Delta x=\sum_{i=1}^n\Delta x_i$$
 $$\Delta f(x)=\sum_{i=1}^n\Delta f(x_i)$$
 ### Integration of differential changes
-- summing up the product of the [[derivatives]] and differential change in variables with $n$ times, where we take the [[Limits|limit]] of $n$ to $\infty$
+- summing up the product of the [[Derivatives]] and differential change in variables with $n$ times, where we take the [[Limits|limit]] of $n$ to $\infty$
 $$\Delta x=\lim_{n\rightarrow\infty}\sum_{i=1}^ndx=\int dx$$
 $$\Delta f(x)=\lim_{n\rightarrow\infty}\sum_{i=1}^ndf(x_i)=\int df(x)=\int f'(x)dx$$
 ## Properties

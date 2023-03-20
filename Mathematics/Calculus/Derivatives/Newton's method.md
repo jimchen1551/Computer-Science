@@ -5,7 +5,7 @@ Types: Card
 Tags: 
 - 
 ---
-# Newton method
+# Newton's method
 $$\text{if }x_n\text{ is the }n^{th}\text{ guess for the solution of }f(x)=0,$$
 $$\text{then }(n+1)^{th}\text{ guess is }x_{n+1}=x_n-\frac{f(x_n)}{f'(x_n)}\text{ provided that }f'(x_n)\text{ exists}$$
 ## For optimization
@@ -19,7 +19,7 @@ $$\Rightarrow \Delta x=-(\nabla^2f(x))^{-1}\nabla f(x)=-H^{-1}\nabla f(x)$$
 , where $-H^{-1}\nabla f(x)$ is called Newton direction
 - converge faster than [[Gradient descent]]
 - more expansive computation (computing [[Gradient]] and [[Hessian matrix]] and its inverse matrix for each iteration)
-- however, the [[Hessian matrix]] might not be invertible; hence, we take the [[Quasi-Newton method]] to approximate the inverse of the [[Hessian matrix]]
+- however, the [[Hessian matrix]] might not be invertible; hence, we take the [[Quasi-Newton's method]] to approximate the inverse of the [[Hessian matrix]]
 ```Pseudocode
 Initialize x_0, k = 0
 while k<N do

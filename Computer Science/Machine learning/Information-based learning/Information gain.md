@@ -15,7 +15,7 @@ $d$ for descriptive feature; $t$ for target feature; $D$ for dataset
 1. Compute the entropy of the original dataset with respect to target feature. 
    
 2. For each descriptive feature, create the sets that result by partitioning the instances in the dataset using their feature values, and then sum the entropy scores of each of these sets. 
-   - [[Shannon's entropy model]] should be rewritten as $H(t, D)=\sum_{l\in levels(t)}(P(t=l)\lg(P(t=l)))$, where t is the target feature. 
+   - [[Shannon's entropy]] should be rewritten as $H(t, D)=\sum_{l\in levels(t)}(P(t=l)\lg(P(t=l)))$, where t is the target feature. 
    - The entropy remaining also should be defined as $rem(d, D)=\sum_{l\in levels(d)}\frac{|D_{d=l}|}{|D|}H(t, D_{d=l})$, where d is the descriptive feature to partition the dataset D; $|D|$ is the size of the (partitioned) dataset
 3. Subtract the remaining entropy value from the original entropy value to give the information gain. 
    - $IG(d, D)=H(t, D)-rem(d, D)$

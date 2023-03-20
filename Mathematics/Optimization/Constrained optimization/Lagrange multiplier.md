@@ -8,7 +8,7 @@ Tags:
 # Lagrange multiplier
 $$\min_{x}f(x);\ g_i(x)=0,\ i\in[1, n]$$
 $$L(x, \lambda)=f(x)+\lambda^Tg(x)$$
-taking the [[partial derivatives]] of L, then
+taking the [[Partial derivatives]] of L, then
 $$\Rightarrow\frac{\partial L}{\partial x}=\nabla_xf(x)+\lambda^T\nabla_xg_(x)=0$$
 $$\Rightarrow\nabla_xf(x)=-\lambda^T\nabla_xg_(x)$$
 and

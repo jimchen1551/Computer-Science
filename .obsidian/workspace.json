@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a5218282db5ccefc",
+        "id": "aa26df48f5f720f1",
         "type": "tabs",
         "children": [
           {
-            "id": "cb066ea744b2b2d4",
+            "id": "1484164bf27c0261",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Probability.md",
+                "file": "Computer Science/Machine learning/Parameter estimation/Expectation maximization.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Probability.md",
+                "file": "Computer Science/Machine learning/Parameter estimation/Expectation maximization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Probability.md",
+                "file": "Computer Science/Machine learning/Parameter estimation/Expectation maximization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Probability.md"
+                "file": "Computer Science/Machine learning/Parameter estimation/Expectation maximization.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "3a776e8a482cd1d1",
@@ -179,39 +179,43 @@
       "publish:Publish changes": false
     }
   },
-  "active": "cb066ea744b2b2d4",
+  "active": "1484164bf27c0261",
   "lastOpenFiles": [
-    "Mathematics.md",
-    "Mathematics/Probability/Random vectors/Moment-generating function.md",
+    "Computer Science/Machine learning.md",
+    "Mathematics/Calculus.md",
+    "Mathematics/Calculus/Calculus of variations/Euler-Lagrange equation.md",
+    "Computer Science/Machine learning/Parameter estimation/Expectation maximization.md",
+    "Computer Science/Resources/Pasted image 20230319194335.png",
     "Mathematics/Probability.md",
+    "Mathematics.md",
+    "Mathematics/Calculus/Calculus of variations/Beltrami identity.md",
+    "Mathematics/Calculus/Calculus of variations/Functional.md",
+    "Mathematics/Calculus/Calculus of variations",
+    "Computer Science/Machine learning/Parameter estimation/Maximum likelihood.md",
+    "Mathematics/Information theory/Kullback-Leibler divergence.md",
     "Computer Science.md",
-    "Mathematics/Probability/Distribution/Normal distribution.md",
-    "Mathematics/Calculus/Integrals.md",
-    "Mathematics/Probability/Estimation theory/Maximum a posteriori.md",
-    "Mathematics/Probability/Estimation theory/Maximum likelihood.md",
+    "Computer Science/Machine learning/Parameter estimation/Kernel density estimation.md",
+    "Mathematics/Stochastic process/Markov/Markov property.md",
+    "Mathematics/Information theory.md",
+    "Computer Science/Machine learning/Probability-based learning/Bayesian networks.md",
+    "Computer Science/Deep learning.md",
     "Mathematics/Probability/Random events/Bayes' theorem.md",
-    "Mathematics/Probability/Distribution/Universality of the Uniform.md",
-    "Mathematics/Calculus/Integrals/Gaussian integral.md",
-    "Mathematics/Probability/Distribution/Gamma distribution.md",
-    "Mathematics/Probability/Distribution/Poisson distribution.md",
-    "Mathematics/Probability/Distribution/Pascal distribution.md",
-    "Mathematics/Probability/Distribution/Exponential distribution.md",
-    "Mathematics/Probability/Distribution/Geometric distribution.md",
-    "Mathematics/Probability/Distribution/Multinomial distribution.md",
-    "Mathematics/Probability/Distribution/Binomial distribution.md",
-    "Mathematics/Probability/Distribution/Bernoulli distribution.md",
-    "Mathematics/Probability/Distribution/Uniform distribution.md",
-    "Mathematics/Probability/Random vectors/Correlation.md",
-    "Mathematics/Probability/Random vectors/Covariance.md",
-    "Mathematics/Probability/Random vectors/Conditional probability density function.md",
-    "Mathematics/Probability/Random vectors/Marginal probability density function.md",
-    "Mathematics/Probability/Random vectors/Marginal probability mass function.md",
-    "Mathematics/Probability/Random variables/Variance.md",
+    "Computer Science/Machine learning/Parameter estimation/Maximum a posteriori.md",
+    "Computer Science/Database systems",
+    "Computer Science/Deep learning",
+    "Mathematics/Stochastic process/Markov/Markov process.md",
+    "Mathematics/Stochastic process/Markov/Markov chain.md",
+    "Mathematics/Stochastic process.md",
+    "Mathematics/Stochastic process/Markov",
+    "Computer Science/Formal languages.md",
+    "Mathematics/Stochastic process",
+    "Mathematics/Signals and systems.md",
+    "Mathematics/Information theory/Mutual information.md",
+    "Mathematics/Information theory/Conditional entropy.md",
+    "Mathematics/Information theory",
     "Mathematics/Probability/Limit theorems",
-    "Mathematics/Probability/Estimation theory",
+    "Computer Science/Machine learning/Parameter estimation",
     "Mathematics/Probability/Random vectors",
-    "Mathematics/Probability/Random variables",
-    "Mathematics/Probability/Random events",
-    "MPCS"
+    "Mathematics/Probability/Random variables"
   ]
 }

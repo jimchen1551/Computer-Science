@@ -26,7 +26,7 @@ $$\Rightarrow\alpha_k=\frac{1}{\Delta g_k^T\Delta x_k};\ \beta_k=-\frac{1}{(H_k\
 Finally, we got
 $$H_{k+1}=H_k+\frac{1}{\Delta g_k^T\Delta x_k}\Delta g_k\Delta g_k^T-\frac{1}{(H_k\Delta x_k)^T\Delta x_k}(H_k\Delta x_k)(H_k\Delta x_k)^T$$
 $$\Rightarrow H_{k+1}=H_k+\frac{\Delta g_k\Delta g_k^T}{\Delta g_k^T\Delta x_k}-\frac{(H_k\Delta x_k)(H_k\Delta x_k)^T}{(H_k\Delta x_k)^T\Delta x_k}$$
-- a kind of [[Quasi-Newton method]]
+- a kind of [[Quasi-Newton's method]]
 - approximating $H_{k+1}$
 - consuming memory (improved version = L-BGFS)
 ```Pseudocode

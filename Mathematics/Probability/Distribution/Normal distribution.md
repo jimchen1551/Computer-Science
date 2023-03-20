@@ -6,9 +6,10 @@ Tags:
 - 
 ---
 # Normal distribution
-$$X\sim N (\mu, \sigma^2)$$
+$$X\sim \mathcal{N} (\mu, \sigma^2)$$
 $$X\sim Gaussian (\mu, \sigma)$$
 - derived from [[Gaussian integral]]
 ## Continuous form
 [[Probability density function|PDF]]:
 $$f_X(x)=\frac{1}{\sqrt{2\pi}\sigma}e^{-\frac{(x-\mu)^2}{2\sigma^2}}$$
+[[Conjugate prior]]: [[Normal distribution]], [[Gamma distribution]]

@@ -26,7 +26,7 @@ $$\Rightarrow \alpha_k=\frac{1}{\Delta x_k^T\Delta g_k};\ \beta_k=-\frac{1}{(H_k
 Finally, we got
 $$H_{k+1}^{-1}=H_k^{-1}+\frac{1}{\Delta x_k^T\Delta g_k}\Delta x_k\Delta x_k^T-\frac{1}{(H_k^{-1}\Delta g_k)^T\Delta g_k}(H_k^{-1}\Delta g_k)(H_k^{-1}\Delta g_k)^T$$
 $$\Rightarrow H_{k+1}^{-1}=H_k^{-1}+\frac{\Delta x_k\Delta x_k^T}{\Delta x_k^T\Delta g_k}-\frac{(H_k^{-1}\Delta g_k)(H_k^{-1}\Delta g_k)^T}{(H_k^{-1}\Delta g_k)^T\Delta g_k}$$
-- a kind of [[Quasi-Newton method]]
+- a kind of [[Quasi-Newton's method]]
 - approximating $H_{k+1}^{-1}$
 ```Pseudocode
 Initialize x_0, H_0=I, k=0

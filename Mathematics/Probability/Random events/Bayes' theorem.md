@@ -14,13 +14,26 @@ $$\eta=\frac{1}{P(B)}=\frac{1}{\Sigma_{j=1}^nP(B|A_j)P(A_j)}$$
 
 ## Generalized Bayes' theorem
 $$P(t=l|q[1],\dots, q[m])=\frac{P(q[1],\dots, q[m]|t=l)P(t=l)}{P(q[1],\dots, q[m])}$$
-, where $t$ for target feature and $q$ for a set of descriptive features from a query instance
+, where $t$ for target features and $q$ for a set of descriptive features from a query instance
 
 1. Prior probability: 
    $$P(t=l)$$
 2. Joint probability: 
    $$P(q[1],\dots, q[m])=P(q[1])P(q[2]|q[1])\dots P(q[m]|q[m-1]\dots q[1])$$
-3. Conditional probability: 
+3. Likelihood: 
    $$P(q[1],\dots, q[m]|t=l)=P(q[1]|t=l)\dots P(q[m]|q[m-1]\dots q[1],t=l)$$
 4. Posterior probability (prediction):
    $$P(t=l|q[1],\dots, q[m])$$
+## Bayesian vs Frequentist
+- Frequentist: 
+  1. Only follow the prior theory
+  2. Real is rational, and rational is real
+  3. Explain data as the frequency (likelihood) of distribution
+  - e.g., [[Maximum likelihood|MLE]]
+
+- Bayesian: 
+  1. Assume a prior theory as $\theta$ 
+  2. Observe the data $D$ 
+  3. Adjust the theory with the likelihood $D|\theta$ 
+  4. Get the posterior theory as $\theta|D$ 
+  - e.g., [[Maximum a posteriori|MAP]]

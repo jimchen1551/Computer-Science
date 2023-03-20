@@ -21,3 +21,4 @@ $$F_X(x)=
 1-\Sigma_{k=0}^{n-1}\frac{(\lambda x)^k}{k!}e^{-\lambda x}&\quad, x\geq0\\
 0 &\quad ,otherwise
 \end{cases}$$
+[[Conjugate prior]]: [[Gamma distribution]]

@@ -5,7 +5,7 @@ Types: Card
 Tags: 
 - 
 ---
-# Bayesian network
+# Bayesian networks
 ![[Screen Shot 2022-11-28 at 14.40.04.png]]
 $$P(x_1, \dots, x_n)=\prod_{i=1}^nP(x_i|Parents(x_i))$$
 $$P(x_i|x_1, \dots, x_n)=P(x_i|Parents(x_i))\prod_{j\in children(x_i)}P(x_j|Parents(x_j))$$
