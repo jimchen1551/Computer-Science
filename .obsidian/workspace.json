@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -182,11 +183,13 @@
   "active": "1484164bf27c0261",
   "lastOpenFiles": [
     "Computer Science/Machine learning.md",
+    "Mathematics/Probability.md",
+    "Mathematics/Probability/Distribution/Multivariate normal distribution.md",
+    "Mathematics/Probability/Distribution/Gaussian mixture model.md",
+    "Computer Science/Machine learning/Parameter estimation/Expectation maximization.md",
     "Mathematics/Calculus.md",
     "Mathematics/Calculus/Calculus of variations/Euler-Lagrange equation.md",
-    "Computer Science/Machine learning/Parameter estimation/Expectation maximization.md",
     "Computer Science/Resources/Pasted image 20230319194335.png",
-    "Mathematics/Probability.md",
     "Mathematics.md",
     "Mathematics/Calculus/Calculus of variations/Beltrami identity.md",
     "Mathematics/Calculus/Calculus of variations/Functional.md",
@@ -211,7 +214,6 @@
     "Mathematics/Stochastic process",
     "Mathematics/Signals and systems.md",
     "Mathematics/Information theory/Mutual information.md",
-    "Mathematics/Information theory/Conditional entropy.md",
     "Mathematics/Information theory",
     "Mathematics/Probability/Limit theorems",
     "Computer Science/Machine learning/Parameter estimation",
