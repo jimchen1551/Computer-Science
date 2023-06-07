@@ -21,4 +21,5 @@ $$F_X(x)=
 1-(1-p)^{\lfloor x\rfloor} & \quad ,x\geq1\\
 0 & \quad ,otherwise
 \end{cases}$$
-[[Conjugate prior]]: [[Beta distribution]]
+[[Conjugate prior]]: 
+[[Beta distribution]]

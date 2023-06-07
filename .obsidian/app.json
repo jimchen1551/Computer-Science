@@ -6,8 +6,9 @@
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "Computer Science/Resources",
   "pdfExportSettings": {
-    "pageSize": "Tabloid",
-    "landscape": false,
+    "includeName": true,
+    "pageSize": "A3",
+    "landscape": true,
     "margin": "2",
     "downscalePercent": 100
   },

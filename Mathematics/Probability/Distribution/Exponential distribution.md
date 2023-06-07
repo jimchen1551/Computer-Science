@@ -23,4 +23,5 @@ $$F_X(x)=\int_{-\infty}^xf_X(u)du=\int_0^x\lambda e^{-\lambda u}du=
 1-e^{-\lambda x}&\quad ,x\geq0\\
 0&\quad ,x<0
 \end{cases}$$
-[[Conjugate prior]]: [[Gamma distribution]]
+[[Conjugate prior]]: 
+[[Gamma distribution]]

@@ -19,4 +19,5 @@ $$p_X(x)=
 \end{cases}$$
 [[Cumulative distribution function|CDF]]: 
 $$F_X(x)=P(Y\geq k), Y\sim BIN(x, p)$$
-[[Conjugate prior]]: [[Beta distribution]]
+[[Conjugate prior]]: 
+[[Beta distribution]]

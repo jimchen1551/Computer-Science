@@ -56,6 +56,6 @@ $$\begin{cases}
 \gamma=-\frac{1}{2\sigma^2}
 \end{cases}$$
 $$\Rightarrow p(x)=\frac{1}{\sqrt{2\sigma^2}}\exp(-\frac{(x-\mu)^2}{2\sigma^2})$$
-$$H(p)=\ln(\sqrt{2\pi\sigma^2}+\frac{1}{2}$$
+$$H(p)=\ln(\sqrt{2\pi\sigma^2})+\frac{1}{2}$$
 ## Bernoulli distribution as an example
 $$H(p)=-p\ln p-(1-p)\ln(1-p)$$

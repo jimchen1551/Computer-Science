@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Calculus/Euler-Lagrange equation.md",
-                "mode": "preview",
+                "file": "Computer Science.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematics/Calculus/Euler-Lagrange equation.md",
+            "file": "Computer Science.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematics/Calculus/Euler-Lagrange equation.md",
+            "file": "Computer Science.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematics/Calculus/Euler-Lagrange equation.md"
+            "file": "Computer Science.md"
           }
         }
       },
@@ -143,6 +143,15 @@
   },
   "active": "cad6881ef36b5f5e",
   "lastOpenFiles": [
+    "Computer Science/Machine learning.md",
+    "Computer Science/Machine learning/Parameter estimation/Expectation maximization.md",
+    "Computer Science.md",
+    "Mathematics.md",
+    "Mathematics/Probability.md",
+    "Mathematics/Probability/Distribution/Beta distribution.md",
+    "Mathematics/Calculus/Calculus of variations/Beltrami identity.md",
+    "Computer Science/Resources/Pasted image 20230319194335.png",
+    "Mathematics/Probability/Random variables/Conjugate prior.md",
     "Mathematics/Probability/Random variables/Moment.md",
     "Mathematics/Probability/Random events/Bonferroni's inequality.md",
     "Mathematics/Probability/Random variables/Law of total variance.md",
@@ -160,14 +169,6 @@
     "Mathematics/Probability/Random variables/Chernoff's inequality.md",
     "Mathematics/Probability/Random variables/Markov's inequality.md",
     "Mathematics/Probability/Random variables/Variance.md",
-    "Mathematics/Probability/Random vectors/Conditional probability density function.md",
-    "Mathematics/Probability/Random vectors/Marginal probability mass function.md",
-    "Mathematics/Probability/Random vectors/Covariance.md",
-    "Mathematics/Probability/Random vectors/Marginal cumulative distribution function.md",
-    "Mathematics/Probability/Random vectors/Marginal probability density function.md",
-    "Mathematics/Probability/Distribution/Universality of the Uniform.md",
-    "Mathematics/Probability/Distribution/Rayleigh distribution.md",
-    "Mathematics/Probability/Distribution/Gaussian mixture model.md",
-    "Computer Science/Machine learning/Parameter estimation/Maximum likelihood.md"
+    "Mathematics/Probability/Random vectors/Conditional probability density function.md"
   ]
 }

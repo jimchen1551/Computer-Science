@@ -40,7 +40,7 @@ Tags:
 	  **MICE** (multiple imputation by chained equations), 
 	  **kNN** (k-neariest neighbors, by mean of neighbors), 
 	  **EM** (expectation-maximization), 
-	  **MissForest** (generating a forest of decision tree and using trees to predict), 
+	  **MissForest** (generating a forest of decision trees and using trees to predict), 
 	  **GAIN** (generative adversarial imputation networks)
 
 >**Markov chain Monte Carlo** (MCMC): 

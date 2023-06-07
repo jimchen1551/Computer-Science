@@ -9,18 +9,62 @@ Tags:
 - an automatic process that extracts patterns from data (or past experiences)
 - A computer program is said to learn from **experience** ***E*** with respect to some class of **tasks** ***T*** and **performance** measure ***P***, if its performance at tasks in *T*, as measured by  *P*, improves with *E*. 
 
-| Machine learning      | Content                                                                                                                                                                                                                          |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Data]]              | [[Analytics Base Table]]<br>[[Data Quality Report]]<br>[[Data Quality Issues]]<br>[[Data Visualization]]<br>[[Data Preparation]]                                                                                                 |
-| Parameter estimation  | [[Maximum likelihood]]<br>[[Maximum a posteriori]]<br>[[Bayesian estimation]]                                                                                                                                                    |
-| Latent variables      | [[Expectation maximization]]<br>[[Principal component analysis]]<br>[[Independent component analysis]]<br>[[Autoassociative neural networks]]                                                                                    |
-| Kernel methods        | [[Kernel density estimation]]<br>[[Mean shift]]<br>[[Radial basis function networks]]<br>[[Gaussian processes]]<br>[[Maximum margin classifiers]]<br>[[Support vector machine]]<br>[[Relevance vector machine]]                  |
-| Sampling methods      | [[Rejection sampling]]<br>[[Adaptive rejection sampling]]<br>[[Importance sampling]]<br>[[Sampling-importance-resampling]]<br>[[Markov Chain Monte Carlo]]<br>[[Gibbs sampling]]<br>[[Slice sampling]]<br>[[Hybrid Monte Carlo]] |
-| Approximate inference | [[Variational inference]]<br>[[Local variational methods]]<br>[[Variational linear regression]]<br>[[Variational logistic regression]]<br>[[Expectation propagation]]                                                            |
-| Graphical models      | [[Bayesian networks]]<br>[[Markov random fields]]                                                                                                                                                                                |
-| Mixture models        | [[Gaussian mixture model]]<br>[[Expectation maximization]]                                                                                                                                                                       |
-| Combining models      | [[Bayesian model averaging]]<br>[[Committees]]<br>[[Boosting]]<br>[[Tree-based models]]<br>[[Conditional mixture models]]                                                                                                        |
-| Sequential data       | [[Markov models]]<br>[[Hidden Markov models]]<br>[[Linear Dynamical systems]]                                                                                                                                                    |
+## Christopher Bishop
+
+| [[Data]]                                              | Content                                                                       |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [[Independent and identically distributed\|iid]] data | Regression models<br>Classification models                                    |
+| sequential data                                       | [[Markov models]]<br>[[Hidden Markov models]]<br>[[Linear Dynamical systems]] |
+
+| Estimations                   | Content                                                                                                                      |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [[Parameter estimation]]      | [[Maximum likelihood]]<br>[[Maximum a posteriori]]<br>[[Bayesian estimation]]                                                |
+| [[Non-parametric estimation]] | [[Nearest neighbor]]: <br>[[k-nearest neighbor]]<br>[[Kernel methods]]: <br>[[Gaussian process]], [[Support vector machine]] |
+
+| Models           | Content                                                                                                                                                                                                                                                               |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Probability]]  | [[Conjugate prior]]<br>[[Exponential family]]<br>[[Binomial distribution]] ←→ [[Beta distribution]]<br>[[Multinomial distribution]] ←→ [[Dirichlet distribution]]<br>[[Normal distribution\|Gaussian distribution]] ←→ [[Normal distribution\|Gaussian distribution]] |
+| Linear models    | [[Least squared error]]<br>[[Regularized least squared error]]<br>[[Linear regression]]<br>[[Bayesian linear regression]]<br>[[Logistic regression]]<br>[[Bayesian logistic regression]]                                                                              |
+| Mixture models   | [[Gaussian mixture model]]<br>[[Expectation maximization]]                                                                                                                                                                                                            |
+| Graphical models | [[Bayesian networks]]<br>[[Markov random fields]]                                                                                                                                                                                                                     |
+| Combining models | [[Bayesian model averaging]]<br>[[Committees]]<br>[[Boosting]]<br>[[Tree-based models]]<br>[[Conditional mixture models]]                                                                                                                                             |
+
+| [[Latent variables]]      | Content                                                                                                                                                                                                                          |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Discrete                  | [[K-means]]<br>[[Expectation maximization]]                                                                                                                                                                                      |
+| Continuous                | [[Principal component analysis]]<br>[[Independent component analysis]]<br>[[Linear discriminant analysis]]<br>[[Locally linear embedding]]<br>[[Stochastic neighbor embedding]]<br>[[Autoassociative neural networks]]           |
+| [[Approximate inference]] | [[Variational inference]]<br>[[Local variational methods]]<br>[[Variational linear regression]]<br>[[Variational logistic regression]]<br>[[Expectation propagation]]                                                            |
+| [[Sampling methods]]      | [[Rejection sampling]]<br>[[Adaptive rejection sampling]]<br>[[Importance sampling]]<br>[[Sampling-importance-resampling]]<br>[[Markov Chain Monte Carlo]]<br>[[Gibbs sampling]]<br>[[Slice sampling]]<br>[[Hybrid Monte Carlo]] |
+
+=====================================================
+
+| Machine learning              | Content                                                                                                                                                                                                                                                                              |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Parameter estimation]]      | [[Maximum likelihood]]<br>[[Maximum a posteriori]]<br>[[Bayesian estimation]]                                                                                                                                                                                                        |
+| [[Non-parametric estimation]] | [[Nearest neighbor]]<br>[[Kernel methods]]: <br>[[Kernel density estimation]]<br>[[Mean shift]]<br>[[Radial basis function networks]]<br>[[Gaussian process]]<br>[[Maximum margin classifiers]]<br>[[Support vector machine]]<br>[[Relevance vector machine]]                        |
+| Approximate inference         | [[Variational inference]]<br>[[Local variational methods]]<br>[[Variational linear regression]]<br>[[Variational logistic regression]]<br>[[Expectation propagation]]                                                                                                                |
+| [[Sampling methods]]          | [[Rejection sampling]]<br>[[Adaptive rejection sampling]]<br>[[Importance sampling]]<br>[[Sampling-importance-resampling]]<br>[[Markov Chain Monte Carlo]]<br>[[Gibbs sampling]]<br>[[Slice sampling]]<br>[[Hybrid Monte Carlo]]                                                     |
+| [[Latent variables]]          | Discrete: <br>[[Expectation maximization]]<br>Continuous: <br>[[Principal component analysis]]<br>[[Independent component analysis]]<br>[[Linear discriminant analysis]]<br>[[Locally linear embedding]]<br>[[Stochastic neighbor embedding]]<br>[[Autoassociative neural networks]] |
+| Linear models                 | [[Least squared error]]<br>[[Regularized least squared error]]<br>[[Linear regression]]<br>[[Bayesian linear regression]]<br>[[Logistic regression]]<br>[[Bayesian logistic regression]]                                                                                             |
+| Mixture models                | [[Gaussian mixture model]]<br>[[Expectation maximization]]                                                                                                                                                                                                                           |
+| Graphical models              | [[Bayesian networks]]<br>[[Markov random fields]]                                                                                                                                                                                                                                    |
+| Combining models              | [[Bayesian model averaging]]<br>[[Committees]]<br>[[Boosting]]<br>[[Tree-based models]]<br>[[Conditional mixture models]]                                                                                                                                                            |
+| Sequential data               | [[Markov models]]<br>[[Hidden Markov models]]<br>[[Linear Dynamical systems]]                                                                                                                                                                                                        |
+
+## Wen-Chen Chiu
+
+| Machine Learning                                           | Content                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Supervised** learning<br>(aka **Discriminative** models) | Regression: <br>[[Gaussian process]]<br>Classification: <br>[[Support vector machine]]                                                                                                                                                                                                                                                                                                                                                               |
+| **Unsupervised** learning<br>(aka **Generative** models)   | Clustering: <br>[[K-means]]<br>[[Nearest neighbor]]<br>[[Expectation maximization]]<br>[[Spectral clustering]]<br>[[Hierarchical clustering]]<br>[[Density-based spatial clustering of applications with noise]]<br>Embedding: <br>(aka dimensionality reduction)<br>[[Principal component analysis]]<br>[[Independent component analysis]]<br>[[Linear discriminant analysis]]<br>[[Locally linear embedding]]<br>[[Stochastic neighbor embedding]] |
+
+## John Kelleher
+- [[Data]]
+	- [[Analytics Base Table]]
+	- [[Data Quality Report]]
+	- [[Data Quality Issues]]
+	- [[Data Visualization]]
+	- [[Data Preparation]]
 
 | Classes                        | Techniques                                                                                     | Model                                                                                                                           |
 | ------------------------------ | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,11 +74,8 @@ Tags:
 | [[Error-based learning]]       | [[Error function]]<br>[[Error surface]]<br>[[Gradient descent]]                                | [[Linear regression]]<br>[[Logistic regression]]<br>[[Multivariable linear regression]]<br>[[Multinominal logistic regression]] |
 
 ## Reference book
-- Fundamentals of Machine Learning for Predictive Data Analytics by John D. Kelleher, Brian Mac Namee, and Aoife D'Arcy
-- Hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow by Aurelien Geron
-- Foundations of Machine Learning by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
 - Pattern Recognition and Machine Learning by Christopher M. Bishop
-
+- Fundamentals of Machine Learning for Predictive Data Analytics by John D. Kelleher, Brian Mac Namee, and Aoife D'Arcy
 
 
 

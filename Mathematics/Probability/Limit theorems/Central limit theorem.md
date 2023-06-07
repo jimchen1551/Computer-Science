@@ -13,10 +13,10 @@ Normalize the $X$,
 $$\frac{X-np}{\sqrt{npq}}$$
 And we have
 $$\lim_{n\rightarrow+\infty}P(a\leq\frac{X-np}{\sqrt{npq}}\leq b)=\Phi(b)-\Phi(a)$$
-, where $\Phi(x)$ is the [[Standard normal distribution]]
+, where $\Phi(x)$ is the [[Normal distribution#Standard normal distribution]]
 
 ## Lindeberg-Levy theorem
-[[Independent and identically distributed|iid]] and finite-[[variance]] random variable sequence → [[Standard normal distribution]]
+[[Independent and identically distributed|iid]] and finite-[[variance]] random variable sequence → [[Normal distribution#Standard normal distribution]]
 $$\mathbb{E}[\bar X]=\mu$$
 $$\mathbf{var}(\bar X)=\frac{\sigma^2}{n}$$
 Normalize the $\bar X$, 

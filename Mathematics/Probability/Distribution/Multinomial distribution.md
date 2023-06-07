@@ -11,3 +11,5 @@ $$X\sim M_k (n; p_1, \dots, p_k)$$
 ## Discrete form
 [[Probability mass function|PMF]]: 
 $$p_X(x)=\frac{n!}{x_1!x_2!\cdots x_k!}\cdot p_1^{x_1}\cdots p_k^{x_k}$$
+[[Conjugate prior]]: 
+[[Dirichlet distribution]]

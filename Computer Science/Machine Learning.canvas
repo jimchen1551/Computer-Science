@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"236626afd44b6814","x":-11,"y":-40,"width":250,"height":60,"type":"text","text":"Data"},
+		{"id":"f5bfe1065d6a3921","x":-172,"y":-440,"width":572,"height":279,"type":"text","text":"![[Machine learning]]"},
+		{"id":"e9a04f31d7780eb8","x":-260,"y":160,"width":397,"height":229,"type":"text","text":"![[Independent and identically distributed|iid]]"},
+		{"id":"d2458158ce09351f","x":540,"y":-330,"width":250,"height":60,"type":"text","text":"Model"},
+		{"id":"b8d60035ef688c81","x":360,"y":-84,"width":220,"height":50,"type":"text","text":"Parameter Estimation"},
+		{"id":"42cf3e71add63b10","x":205,"y":120,"width":531,"height":1089,"type":"text","text":"![[Maximum likelihood]]"},
+		{"id":"64323184fc38f03e","x":790,"y":120,"width":690,"height":520,"type":"text","text":"![[Maximum a posteriori]]"}
+	],
+	"edges":[
+		{"id":"6ff31ba85e077c01","fromNode":"f5bfe1065d6a3921","fromSide":"bottom","toNode":"236626afd44b6814","toSide":"top"},
+		{"id":"f9c807c5cebd9d56","fromNode":"236626afd44b6814","fromSide":"bottom","toNode":"e9a04f31d7780eb8","toSide":"top"},
+		{"id":"425d526c7c423a67","fromNode":"f5bfe1065d6a3921","fromSide":"right","toNode":"d2458158ce09351f","toSide":"left"},
+		{"id":"4947972792ac213d","fromNode":"d2458158ce09351f","fromSide":"bottom","toNode":"b8d60035ef688c81","toSide":"top"},
+		{"id":"e873c469c6b2e69a","fromNode":"b8d60035ef688c81","fromSide":"bottom","toNode":"42cf3e71add63b10","toSide":"top"},
+		{"id":"654085e725197ebf","fromNode":"b8d60035ef688c81","fromSide":"right","toNode":"64323184fc38f03e","toSide":"top"}
+	]
+}
