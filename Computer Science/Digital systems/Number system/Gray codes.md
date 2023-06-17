@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Gray codes
+
 | Binary | Bit change | Gray | Bit change |
 | ------ | ---------- | ---- | ---------- |
 | 000    | 1          | 000  | 1          |

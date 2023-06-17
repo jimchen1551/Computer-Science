@@ -47,6 +47,7 @@ $$F=x+EN'$$
 [[Arithmetic block]]
 
 ### Binary adders
+
 | Adder                     | Comment |
 | ------------------------- | ------- |
 | [[Half adder]]            |         |
@@ -59,6 +60,7 @@ $$F=x+EN'$$
 2. increasing the complexity to reduce the carry delay time (e.g., [[Carry lookahead adder]])
 
 ### Binary subtraction
+
 | Subtraction                                | Comment |
 | ------------------------------------------ | ------- |
 | [[Unsigned number subtraction]]            |         |

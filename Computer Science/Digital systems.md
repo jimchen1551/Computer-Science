@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Digital systems
+
 | Digital systems                | Content                                                                                                                                                                                                                                                       |
 |:------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Combinational logic design]] | Design concepts<br>Level of integration<br>Implementation tech<br>Tech parameters                                                                                                                                                                             |
@@ -14,6 +15,7 @@ Tags:
 | [[Register]]                  |                                                                                                                                                                                                                                                               |
 
 ## Number systems
+
 | Number systems    | Content                                                                                                   |
 | ----------------- | --------------------------------------------------------------------------------------------------------- |
 | Coding            | [[Radix]]<br>[[Binary-coded decimal codes]]<br>[[Gray codes]]<br>[[Alphanumeric codes]]<br>[[Parity bit]] |
@@ -34,6 +36,7 @@ Tags:
 | [[Complex gate]]   |                      |                  |
 
 ### Expression
+
 | Expression                | Comment   |
 | ------------------------- | --------- |
 | [[Truth table]]           |           |
@@ -42,6 +45,7 @@ Tags:
 | [[Standard forms]]        | SOP & POS |
 
 ### Minimization
+
 | Cost criteria       | Karnaugh map                    | Optimization                |
 | ------------------- | ------------------------------- | --------------------------- |
 | [[Literal cost]]    | [[Karnaugh map simplification]] | [[Multilevel optimization]] |

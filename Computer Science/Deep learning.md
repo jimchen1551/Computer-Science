@@ -22,6 +22,7 @@ Tags:
 | [[Convolutional network]] | [[Normalization]]<br>[[LeNet]]<br>[[AlexNet]]<br>[[ImageNet]]<br>[[DenseNet]]<br>[[VGG]]<br>[[R-CNN]]<br>[[YOLO]] |
 | [[Recurrent network]]     | [[Bidirectional recurrent network]]<br>[[Long short-term memory]]<br>[[Gated recurrent unit]]                     |
 | [[Self-attention]]        | [[Transformer]]<br>[[Vision transformer]]<br>[[Point transformer]]                                                |
+| [[Graph network]]         |                                                                                                                   |
 
 | Architectures                      | Variants                                                                                                          |
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------- |

@@ -16,10 +16,10 @@ Tags:
 | [[Independent and identically distributed\|iid]] data | Regression models<br>Classification models                                    |
 | sequential data                                       | [[Markov models]]<br>[[Hidden Markov models]]<br>[[Linear Dynamical systems]] |
 
-| Estimations                   | Content                                                                                                                      |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| [[Parameter estimation]]      | [[Maximum likelihood]]<br>[[Maximum a posteriori]]<br>[[Bayesian estimation]]                                                |
-| [[Non-parametric estimation]] | [[Nearest neighbor]]: <br>[[k-nearest neighbor]]<br>[[Kernel methods]]: <br>[[Gaussian process]], [[Support vector machine]] |
+| Estimations                   | Content                                                                                                                                                                                                          |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Parameter estimation]]      | [[Maximum likelihood]]: <br>[[Feedforward network]], [[Least squared error]]<br>[[Maximum a posteriori]]: <br>[[Regularization]], [[Regularized least squared error]]<br>[[Bayesian estimation]]                 |
+| [[Non-parametric estimation]] | [[Nearest neighbor]]: <br>[[k-nearest neighbor]], [[k-means]]<br>[[Kernel methods]]: <br>[[Gaussian process]], [[Support vector machine]]<br>[[Spectral methods]]:<br>[[Spectral clustering]], [[Graph network]] |
 
 | Models           | Content                                                                                                                                                                                                                                                               |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

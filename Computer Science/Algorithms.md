@@ -40,6 +40,7 @@ Tags:
 8. The boolean operators "and" and "or" are short-circuiting. 
 
 ## Analysis
+
 | Analysis                | Content                                                                                                       |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------- |
 | [[Loop invariant]]      | Initialization<br>Maintenance<br>Termination                                                                  |
@@ -60,6 +61,7 @@ Tags:
 - the number of primitive steps executed
 
 ## Design
+
 | Technique               | Examples                                                                                                                                         |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Incremental method      | [[Insertion sort]]                                                                                                                               |

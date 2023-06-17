@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Combinational logic design
+
 | [[Integrated circuit]] | Content                                                                                                                                                                                                                                                                         |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Design concepts        | [[Hierarchical Design]]<br>[[Computer-Aided Design]]<br>[[Hardware Description Languages]]<br>[[Logic Synthesis]]                                                                                                                                                               |
@@ -14,6 +15,7 @@ Tags:
 | Tech parameters        | [[Fan-in]]<br>[[Fan-out]]<br>[[Noise margin]]<br>[[Cost for a gate]]<br>[[Propagation delay]]<br>[[Power dissipation]]                                                                                                                                                          |
 
 ## Design procedure
+
 | Procedure              | Comment                                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Specification          | writing a spec for the circuit                                                                                           |
