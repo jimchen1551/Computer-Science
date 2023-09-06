@@ -6,6 +6,7 @@ Tags:
 - 
 ---
 # Computer organization
+
 | Computer organization            | Content                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |:-------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Instruction set architecture]] | [[Complex instruction set computer]]<br>[[Reduced instruction set computer]]<br>[[Instruction format and addressing]]<br>[[Instruction operands]]<br>[[Instruction operation]]<br>[[Stack]]<br>[[Leaf procedure]]<br>[[Nested procedure]]<br>[[Procedure call]]<br>[[Memory layout]]                                                                                                                                                                                                             |
@@ -24,7 +25,9 @@ Tags:
 
 ## From Softwares to Hardwares
 ![[Pasted image 20220706132457.png]]
+
 ### Softwares
+
 | Class                    | Comment                                                            |
 | ------------------------ | ------------------------------------------------------------------ |
 | [[Application program]] | [[Program execution]], <br>[[Instruction set architecture#Procedures]] |

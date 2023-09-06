@@ -1,5 +1,5 @@
-# MPCS
-Notes for Math, Physics, and Computer Science
+# Computer Science
+Notes for Math and Computer Science
 
 ## Environment setup
 Obsidian is a **free** cross-platform markdown editor which peculiarly supports bidirectional linkage between notes and miscellaneous community plugins. 
@@ -37,8 +37,6 @@ OS Supported: <br>Linux, macOS, Windows, iOS, Android.
 8. Mathematical modeling<br>
    
 8. Signals and systems<br>
-
-## Physics
 
 ## Computer science
 1. Data structures: <br>

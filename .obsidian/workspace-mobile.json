@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Deep learning.md",
+                "file": "Computer Science/Operating systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Computer Science/Deep learning.md",
+            "file": "Computer Science/Operating systems.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Computer Science/Deep learning.md",
+            "file": "Computer Science/Operating systems.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Science/Deep learning.md"
+            "file": "Computer Science/Operating systems.md"
           }
         }
       },
@@ -152,7 +152,15 @@
   },
   "active": "cad6881ef36b5f5e",
   "lastOpenFiles": [
+    "Computer Science/Operating systems/Process management.md",
+    "Computer Science/Operating systems/Process management/Process scheduling/Context switch.md",
+    "Computer Science/Operating systems.md",
+    "Computer Science/Operating systems/Operating system structures.md",
+    "Computer Science/Operating systems/Computer system/Computer-system operation.md",
+    "Computer Science/Operating systems/Computer system/Computer-system architecture.md",
+    "Computer Science/Operating systems/Computer system/Computer-system organization.md",
     "Computer Science.md",
+    "Computer Science/Deep learning.md",
     "Mathematics/Probability/Distribution/Universality of the Uniform.md",
     "Mathematics.md",
     "Mathematics/Probability/Distribution/Normal distribution.md",
@@ -170,14 +178,6 @@
     "Mathematics/Optimization/Divide and conquer/Coordinate descent.md",
     "Mathematics/Probability/Random variables/Expectation.md",
     "Mathematics/Probability/Random variables/Jensen's inequality.md",
-    "Mathematics/Optimization/Divide and conquer/Sequential minimal optimization.md",
-    "Computer Science/Machine learning/Parameter estimation/Minimum description length.md",
-    "Mathematics/Probability/Random vectors/Independent and identically distributed.md",
-    "Mathematics/Optimization/Constrained optimization/Lagrange duality.md",
-    "Mathematics/Optimization/Divide and conquer/Adaptive boosting.md",
-    "Mathematics/Probability/Random variables/Law of total expectation.md",
-    "Mathematics/Calculus/Integrals/Gaussian integral.md",
-    "Mathematics/Probability/Random variables/Chernoff's inequality.md",
-    "Mathematics/Probability/Random variables/Markov's inequality.md"
+    "Mathematics/Optimization/Divide and conquer/Sequential minimal optimization.md"
   ]
 }

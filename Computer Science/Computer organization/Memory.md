@@ -7,6 +7,7 @@ Tags:
 ---
 # Memory
 ## Principle of locality
+
 | Locality | Comment                                                           |
 | -------- | ----------------------------------------------------------------- |
 | Temporal | Items accessed recently are likely <br>to be accessed again soon      |

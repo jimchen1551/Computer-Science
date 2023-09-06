@@ -25,6 +25,7 @@ Tags:
 - output is a function of input
 
 ## Datapath
+
 | Datapath                                    | Comment                                                            |
 | ------------------------------------------- | ------------------------------------------------------------------ |
 | [[Instruction fetch datapath]]              | for fetching instructions and incrementing the [[Program counter]] |

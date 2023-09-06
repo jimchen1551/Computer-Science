@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "52828fd00f908f8f",
+        "id": "307f85bc2e9a4bde",
         "type": "tabs",
         "children": [
           {
-            "id": "b87bbf3ac451ad75",
+            "id": "c3c1a96050b66d8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 249.5
   },
   "right": {
     "id": "53bd0cc1c6a8ef8d",
@@ -76,19 +81,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7d74b856877296a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "0ea61d472026bad7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,15 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "e890d18f977ee209",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -144,9 +137,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "d819ecbe8113358b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cea54b66c394ea3d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "3a776e8a482cd1d1",
@@ -177,45 +186,45 @@
   "left-ribbon": {
     "hiddenItems": {
       "publish:Publish changes...": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b87bbf3ac451ad75",
+  "active": "c3c1a96050b66d8d",
   "lastOpenFiles": [
-    "Physics.md",
-    "Mathematics.md",
-    "Computer Science.md",
-    "Computer Science/Digital systems.md",
-    "Computer Science/Reinforcement learning.md",
-    "Computer Science/Digital systems/Combinational logic design.md",
-    "Computer Science/Digital systems/Combinational circuits/Selection.md",
-    "Computer Science/Digital systems/Combinational circuit.md",
-    "Computer Science/Digital systems/Number system/Gray codes.md",
-    "Computer Science/Digital systems/Boolean algebra/Expression/Don't care conditions.md",
-    "Computer Science/Digital systems/Boolean algebra/Expression/Truth table.md",
-    "Computer Science/Reinforcement learning",
-    "Computer Science/Deep learning.md",
-    "Computer Science/Operating systems.md",
-    "Computer Science/Machine learning.md",
-    "Computer Science/Algorithms.md",
-    "Mathematics/Probability/Distribution/Normal distribution.md",
-    "Mathematics/Probability.md",
-    "Mathematics/Calculus.md",
-    "Mathematics/Calculus/Partial derivatives.md",
-    "Mathematics/Calculus/Limit/L'Hospital's rule.md",
-    "Mathematics/Calculus/Vector derivatives.md",
-    "Computer Science/Database systems.md",
-    "Mathematics/Mathematical modeling.md",
-    "Computer Science/Machine Learning.canvas",
-    "Computer Science/Machine learning/Information-based learning/Information gain.md",
     "Mathematics/Optimization.md",
-    "Computer Science/Machine learning/Parameter estimation/Maximum a posteriori.md",
+    "Mathematics/Optimization/First-order optimization/Adaptive moment.md",
+    "Mathematics/Calculus/Partial derivatives.md",
+    "Mathematics/Calculus.md",
+    "Template/YAML.md",
+    "Syntax.md",
+    "Computer Science/Operating systems.md",
+    "Computer Science/Computer organization.md",
+    "Computer Science/Computer organization/Memory.md",
+    "Computer Science/Computer organization/Processor.md",
+    "Computer Science/Operating systems/Computer system/Computer-system organization.md",
+    "Computer Science/Operating systems/Computer system/Organization/Device driver.md",
+    "Computer Science.md",
+    "Computer Science/Machine learning.md",
+    "Mathematics.md",
+    "Mathematics/Calculus/Partial derivatives/Wave equation.md",
+    "Mathematics/Calculus/Multiple integrals.md",
+    "Mathematics/Calculus/Integrals/Integration by partial fractions.md",
+    "Mathematics/Calculus/Partial derivatives/Hessian matrix.md",
+    "Mathematics/Calculus/Integrals.md",
+    "Mathematics/Calculus/Integrals/Fundamental theorem of calculus.md",
+    "Mathematics/Calculus/Integrals/Gaussian integral.md",
+    "Mathematics/Calculus/Integrals/Integration by parts.md",
+    "Mathematics/Calculus/Integrals/Integration by substitution.md",
+    "Mathematics/Calculus/Derivatives.md",
+    "Mathematics/Calculus/Derivatives/Newton's method.md",
+    "Computer Science/Machine Learning.canvas",
+    "Computer Science/Reinforcement learning",
     "Computer Science/Resources/Screenshot 2023-04-12 at 00.24.09.png",
     "Computer Science/Resources/Screenshot 2023-04-12 at 00.04.24.png",
     "Computer Science/Resources/Screenshot 2023-04-11 at 23.38.18.png",

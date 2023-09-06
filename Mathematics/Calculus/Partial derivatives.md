@@ -16,6 +16,7 @@ $$\partial_{x_i}f=f_{x_i}\cdot dx_i$$
 ### Higher-order partial derivative
 $$f_{xy}=\frac{\partial}{\partial y}(\frac{\partial f}{\partial x})=\frac{\partial^2f}{\partial y\partial x}$$
 ### Other derivatives
+
 | Other derivatives          | Notation                        | Definition                                                  |
 | -------------------------- | ------------------------------- | ----------------------------------------------------------- |
 | [[Differential]]           | $df$                            | $\sum f_x\cdot dx$                                          |
